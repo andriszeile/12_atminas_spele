@@ -40,8 +40,6 @@ async function atlasitTop() {
 
 atlasitTop();
 
-
-
 function pievienotTop() {
   let tabula = document.querySelector('.tops');
   tabula.innerHTML = tabula.innerHTML +`

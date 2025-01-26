@@ -90,7 +90,6 @@ function pasleptLaukumu(laukums)
   document.querySelector('#'+laukums+' div').style.display='none';
 }
 
-
 setInterval(skaititLaiku, 1000);
 function skaititLaiku()
 {

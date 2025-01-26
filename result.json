@@ -7,6 +7,13 @@
         "datums": "2025-01-26"
     },
     {
+        "id": 13,
+        "vards": "g1",
+        "klikski": 18,
+        "laiks": 10,
+        "datums": "2025-01-26"
+    },
+    {
         "id": 12,
         "vards": "gg",
         "klikski": 22,
@@ -22,13 +29,6 @@
     },
     {
         "id": 2,
-        "vards": "Anonīmais",
-        "klikski": 100,
-        "laiks": 100,
-        "datums": "2020-01-01"
-    },
-    {
-        "id": 3,
         "vards": "Anonīmais",
         "klikski": 100,
         "laiks": 100,
