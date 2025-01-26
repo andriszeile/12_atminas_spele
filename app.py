@@ -37,7 +37,7 @@ def top_data():
         return jsonify(top_5), 200
     except Exception:
         
-        return jsonify({'status': 'error', 'message': str(e)}), 500
+        return jsonify({'status': 'error'}), 500
 
 
 @app.route('/pievienot-rezultatu', methods=['POST'])
@@ -58,7 +58,7 @@ def pievienot_rezultatu():
         return jsonify({'status': 'success'}), 200
     except Exception:
         
-        return jsonify({'status': 'error', 'message': str(e)}), 500
+        return jsonify({'status': 'error'}), 500
 
 if __name__ == '__main__':
   #app.run(host='0.0.0.0', port=80)
