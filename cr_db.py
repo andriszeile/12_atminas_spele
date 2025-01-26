@@ -17,11 +17,16 @@ CREATE TABLE IF NOT EXISTS rezultati (
 
 # Piecu izdomātu ierakstu saraksts
 ieraksti = [
-    ("Jānis", 34, 50, "2025-01-20"),
-    ("Anna", 28, 45, "2025-01-21"),
-    ("Pēteris", 40, 60, "2025-01-22"),
-    ("Zane", 30, 55, "2025-01-23"),
-    ("Ilze", 25, 40, "2025-01-24"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
+    ("Anonīmais", 100, 100, "2020-01-01"),
 ]
 
 # Pievieno ierakstus tabulā

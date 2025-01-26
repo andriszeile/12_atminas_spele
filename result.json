@@ -1,37 +1,37 @@
 [
     {
-        "id": 15,
+        "id": 11,
         "vards": "gg",
-        "klikski": 16,
-        "laiks": 11,
-        "datums": "2025-01-26"
-    },
-    {
-        "id": 13,
-        "vards": "gg",
-        "klikski": 18,
+        "klikski": 14,
         "laiks": 10,
         "datums": "2025-01-26"
     },
     {
-        "id": 8,
+        "id": 12,
         "vards": "gg",
-        "klikski": 20,
-        "laiks": 11,
+        "klikski": 22,
+        "laiks": 15,
         "datums": "2025-01-26"
     },
     {
-        "id": 10,
-        "vards": "gg",
-        "klikski": 20,
-        "laiks": 11,
-        "datums": "2025-01-26"
+        "id": 1,
+        "vards": "Anonīmais",
+        "klikski": 100,
+        "laiks": 100,
+        "datums": "2020-01-01"
     },
     {
-        "id": 11,
-        "vards": "gg",
-        "klikski": 20,
-        "laiks": 11,
-        "datums": "2025-01-26"
+        "id": 2,
+        "vards": "Anonīmais",
+        "klikski": 100,
+        "laiks": 100,
+        "datums": "2020-01-01"
+    },
+    {
+        "id": 3,
+        "vards": "Anonīmais",
+        "klikski": 100,
+        "laiks": 100,
+        "datums": "2020-01-01"
     }
 ]
