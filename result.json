@@ -1,5 +1,12 @@
 [
     {
+        "id": 14,
+        "vards": "gg",
+        "klikski": 12,
+        "laiks": 7,
+        "datums": "2025-02-03"
+    },
+    {
         "id": 11,
         "vards": "gg",
         "klikski": 14,
@@ -22,13 +29,6 @@
     },
     {
         "id": 1,
-        "vards": "Anonīmais",
-        "klikski": 100,
-        "laiks": 100,
-        "datums": "2020-01-01"
-    },
-    {
-        "id": 2,
         "vards": "Anonīmais",
         "klikski": 100,
         "laiks": 100,
